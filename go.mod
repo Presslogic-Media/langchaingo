@@ -2,7 +2,7 @@ module github.com/Presslogic-Media/langchaingo
 
 go 1.24.4
 
-toolchain go1.24.4
+//toolchain go1.24.4
 
 // Note: Thanks to Go's module graph pruning (https://go.dev/ref/mod#graph-pruning),
 // importing langchaingo does NOT pull in all dependencies listed below. You only
