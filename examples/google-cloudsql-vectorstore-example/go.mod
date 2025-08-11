@@ -3,7 +3,7 @@ module github.com/Presslogic-Media/langchaingo/examples/google-cloudsql-vectorst
 go 1.24.3
 
 
-require github.com/tmc/langchaingo v0.1.14-pre.0
+require github.com/Presslogic-Media/langchaingo/ v0.1.14-pre.0
 
 require (
 	cloud.google.com/go v0.116.0 // indirect

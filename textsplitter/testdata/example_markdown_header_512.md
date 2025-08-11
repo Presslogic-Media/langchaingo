@@ -55,7 +55,7 @@ to <travis.cline@gmail.com>.
 
 ## I Have a Question
 > If you want to ask a question, we assume that you have read the
-> available [Documentation](https://pkg.go.dev/github.com/tmc/langchaingo).
+> available [Documentation](https://pkg.go.dev/github.com/Presslogic-Media/langchaingo/).
 
 ---
 
@@ -96,7 +96,7 @@ following steps in advance to help us fix any potential bug as fast as possible.
 
 #### Before Submitting a Bug Report
 - Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment
-components/versions (Make sure that you have read the [documentation](https://pkg.go.dev/github.com/tmc/langchaingo).
+components/versions (Make sure that you have read the [documentation](https://pkg.go.dev/github.com/Presslogic-Media/langchaingo/).
 If you are looking for support, you might want to check [this section](#i-have-a-question)).
 
 ---
@@ -168,7 +168,7 @@ community to understand your suggestion and find related suggestions.
 
 #### Before Submitting an Enhancement
 - Make sure that you are using the latest version.
-- Read the [documentation](https://pkg.go.dev/github.com/tmc/langchaingo) carefully and find out if the functionality is
+- Read the [documentation](https://pkg.go.dev/github.com/Presslogic-Media/langchaingo/) carefully and find out if the functionality is
 already covered, maybe by an individual configuration.
 - Perform a [search](https://github.com/Presslogic-Media/langchaingo/issues) to see if the enhancement has already been suggested. If
 it has, add a comment to the existing issue instead of opening a new one.

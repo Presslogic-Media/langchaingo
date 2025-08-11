@@ -3,7 +3,7 @@ module github.com/Presslogic-Media/langchaingo/examples/google-cloudsql-chat-mes
 go 1.24.3
 
 
-require github.com/tmc/langchaingo v0.1.14-pre.0
+require github.com/Presslogic-Media/langchaingo/ v0.1.14-pre.0
 
 require (
 	cloud.google.com/go/auth v0.14.0 // indirect

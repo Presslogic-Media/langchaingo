@@ -1,6 +1,6 @@
 module github.com/Presslogic-Media/langchaingo
 
-go 1.23.8
+go 1.24.6
 
 toolchain go1.24.6
 

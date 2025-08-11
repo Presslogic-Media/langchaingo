@@ -2,7 +2,7 @@ module github.com/Presslogic-Media/langchaingo/examples/mistral-summarization-ex
 
 go 1.24.3
 
-require github.com/tmc/langchaingo v0.1.14-pre.0
+require github.com/Presslogic-Media/langchaingo/ v0.1.14-pre.0
 
 require (
 	github.com/AssemblyAI/assemblyai-go-sdk v1.3.0 // indirect

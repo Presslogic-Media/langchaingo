@@ -2,7 +2,7 @@ module github.com/Presslogic-Media/langchaingo/examples/openai-gpt4o-mutil-conte
 
 go 1.24.3
 
-require github.com/tmc/langchaingo v0.1.14-pre.0
+require github.com/Presslogic-Media/langchaingo v0.0.0-20250811041230-32fa6a8494f3
 
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect

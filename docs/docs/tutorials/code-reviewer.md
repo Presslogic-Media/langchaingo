@@ -22,7 +22,7 @@ A CLI tool that:
 mkdir ai-code-reviewer
 cd ai-code-reviewer
 go mod init code-reviewer
-go get github.com/tmc/langchaingo
+go get github.com/Presslogic-Media/langchaingo/
 ```
 
 ## Step 2: Core reviewer structure

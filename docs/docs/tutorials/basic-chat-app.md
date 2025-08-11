@@ -21,7 +21,7 @@ go mod init chat-app
 Add LangChainGo as a dependency:
 
 ```bash
-go get github.com/tmc/langchaingo
+go get github.com/Presslogic-Media/langchaingo/
 ```
 
 ## Step 2: Basic chat implementation

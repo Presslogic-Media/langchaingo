@@ -2,7 +2,7 @@ module github.com/Presslogic-Media/langchaingo/examples/bedrock-claude3-vision-e
 
 go 1.24.3
 
-require github.com/tmc/langchaingo v0.1.14-pre.0
+require github.com/Presslogic-Media/langchaingo/ v0.1.14-pre.0
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.36.3 // indirect

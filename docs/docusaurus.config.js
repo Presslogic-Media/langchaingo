@@ -178,7 +178,7 @@ const config = {
               },
               {
                 label: "Go",
-                href: "https://github.com/tmc/langchaingo",
+                href: "https://github.com/Presslogic-Media/langchaingo/",
               },
             ],
           },
