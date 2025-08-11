@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"net/url"
 
+	"github.com/Presslogic-Media/langchaingo/httputil"
+	"github.com/Presslogic-Media/langchaingo/schema"
 	"github.com/google/uuid"
-	"github.com/tmc/langchaingo/httputil"
-	"github.com/tmc/langchaingo/schema"
 )
 
 // upsertPoints updates or inserts points into the Qdrant collection.

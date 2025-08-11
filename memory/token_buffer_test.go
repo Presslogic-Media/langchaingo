@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms/openai"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/openai"
 )
 
 // newTestOpenAIClient creates an OpenAI client with httprr support for testing.

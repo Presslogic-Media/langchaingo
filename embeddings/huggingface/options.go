@@ -1,7 +1,7 @@
 package huggingface
 
 import (
-	"github.com/tmc/langchaingo/llms/huggingface"
+	"github.com/Presslogic-Media/langchaingo/llms/huggingface"
 )
 
 const (

@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/embeddings"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/internal/httprr"
 )
 
 // TestConvertFloat64ToFloat32 tests the ConvertFloat64ToFloat32 function using table-driven tests.

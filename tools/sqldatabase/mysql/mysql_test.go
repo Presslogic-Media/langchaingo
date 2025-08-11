@@ -10,13 +10,12 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/internal/testutil/testctr"
+	"github.com/Presslogic-Media/langchaingo/tools/sqldatabase"
+	_ "github.com/Presslogic-Media/langchaingo/tools/sqldatabase/mysql"
 	"github.com/stretchr/testify/require"
-	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/log"
 	"github.com/testcontainers/testcontainers-go/modules/mysql"
-	"github.com/tmc/langchaingo/internal/testutil/testctr"
-	"github.com/tmc/langchaingo/tools/sqldatabase"
-	_ "github.com/tmc/langchaingo/tools/sqldatabase/mysql"
 )
 
 func Test(t *testing.T) {

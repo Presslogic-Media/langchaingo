@@ -68,7 +68,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/tmc/langchaingo/edit/main/docs/",
+          editUrl: "https://github.com/Presslogic-Media/langchaingo/edit/main/docs/",
           remarkPlugins: [
             [require("@docusaurus/remark-plugin-npm2yarn"), { sync: true }],
           ],

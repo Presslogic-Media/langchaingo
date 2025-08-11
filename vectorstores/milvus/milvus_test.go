@@ -7,19 +7,18 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/embeddings"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/internal/testutil/testctr"
+	"github.com/Presslogic-Media/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms/openai"
+	"github.com/Presslogic-Media/langchaingo/schema"
+	"github.com/Presslogic-Media/langchaingo/vectorstores"
 	"github.com/milvus-io/milvus-sdk-go/v2/client"
 	"github.com/milvus-io/milvus-sdk-go/v2/entity"
 	"github.com/stretchr/testify/require"
-	"github.com/testcontainers/testcontainers-go"
 	tclog "github.com/testcontainers/testcontainers-go/log"
 	tcmilvus "github.com/testcontainers/testcontainers-go/modules/milvus"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/internal/testutil/testctr"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
 )
 
 // createOpenAIEmbedder creates an OpenAI embedder with httprr support for testing.

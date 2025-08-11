@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-function-call-example
+module github.com/Presslogic-Media/langchaingo/examples/openai-function-call-example
 
 go 1.24.3
 

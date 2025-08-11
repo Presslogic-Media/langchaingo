@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/mistral-summarization-example
+module github.com/Presslogic-Media/langchaingo/examples/mistral-summarization-example
 
 go 1.24.3
 

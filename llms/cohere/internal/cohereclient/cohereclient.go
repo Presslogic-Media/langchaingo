@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"strings"
 
+	"github.com/Presslogic-Media/langchaingo/httputil"
 	"github.com/cohere-ai/tokenizer"
-	"github.com/tmc/langchaingo/httputil"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/prompt-template-example
+module github.com/Presslogic-Media/langchaingo/examples/prompt-template-example
 
 go 1.23.8
 

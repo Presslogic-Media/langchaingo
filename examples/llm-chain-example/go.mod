@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/llm-chain-example
+module github.com/Presslogic-Media/langchaingo/examples/llm-chain-example
 
 go 1.24.3
 

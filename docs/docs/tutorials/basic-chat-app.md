@@ -39,9 +39,9 @@ import (
     "os"
     "strings"
 
-    "github.com/tmc/langchaingo/llms"
-    "github.com/tmc/langchaingo/llms/openai"
-    "github.com/tmc/langchaingo/memory"
+    "github.com/Presslogic-Media/langchaingo/llms"
+    "github.com/Presslogic-Media/langchaingo/llms/openai"
+    "github.com/Presslogic-Media/langchaingo/memory"
 )
 
 func main() {
@@ -127,9 +127,9 @@ import (
     "os"
     "strings"
 
-    "github.com/tmc/langchaingo/chains"
-    "github.com/tmc/langchaingo/llms/openai"
-    "github.com/tmc/langchaingo/memory"
+    "github.com/Presslogic-Media/langchaingo/chains"
+    "github.com/Presslogic-Media/langchaingo/llms/openai"
+    "github.com/Presslogic-Media/langchaingo/memory"
 )
 
 func main() {
@@ -188,10 +188,10 @@ import (
     "os"
     "strings"
 
-    "github.com/tmc/langchaingo/chains"
-    "github.com/tmc/langchaingo/llms/openai"
-    "github.com/tmc/langchaingo/memory"
-    "github.com/tmc/langchaingo/prompts"
+    "github.com/Presslogic-Media/langchaingo/chains"
+    "github.com/Presslogic-Media/langchaingo/llms/openai"
+    "github.com/Presslogic-Media/langchaingo/memory"
+    "github.com/Presslogic-Media/langchaingo/prompts"
 )
 
 func main() {

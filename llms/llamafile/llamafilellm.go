@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/llamafile/internal/llamafileclient"
+	"github.com/Presslogic-Media/langchaingo/callbacks"
+	"github.com/Presslogic-Media/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms/llamafile/internal/llamafileclient"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/pgvector-vectorstore-example
+module github.com/Presslogic-Media/langchaingo/examples/pgvector-vectorstore-example
 
 go 1.24.3
 

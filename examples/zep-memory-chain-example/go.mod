@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/zep-memory-chain-example
+module github.com/Presslogic-Media/langchaingo/examples/zep-memory-chain-example
 
 go 1.24.3
 

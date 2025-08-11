@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/llamafile-completion-example
+module github.com/Presslogic-Media/langchaingo/examples/llamafile-completion-example
 
 go 1.24.3
 

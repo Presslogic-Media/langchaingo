@@ -6,13 +6,13 @@ import (
 	"log"
 	"os"
 
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/llms/googleai"
-	"github.com/tmc/langchaingo/llms/googleai/vertex"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/util/cloudsqlutil"
-	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/cloudsql"
+	"github.com/Presslogic-Media/langchaingo/embeddings"
+	"github.com/Presslogic-Media/langchaingo/llms/googleai"
+	"github.com/Presslogic-Media/langchaingo/llms/googleai/vertex"
+	"github.com/Presslogic-Media/langchaingo/schema"
+	"github.com/Presslogic-Media/langchaingo/util/cloudsqlutil"
+	"github.com/Presslogic-Media/langchaingo/vectorstores"
+	"github.com/Presslogic-Media/langchaingo/vectorstores/cloudsql"
 )
 
 func getEnvVariables() (string, string, string, string, string, string, string, string) {

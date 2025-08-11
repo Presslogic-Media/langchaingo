@@ -8,13 +8,13 @@ import (
 	"os"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/embeddings"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms/openai"
+	"github.com/Presslogic-Media/langchaingo/schema"
+	"github.com/Presslogic-Media/langchaingo/util/alloydbutil"
+	"github.com/Presslogic-Media/langchaingo/vectorstores/alloydb"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/util/alloydbutil"
-	"github.com/tmc/langchaingo/vectorstores/alloydb"
 )
 
 type EnvVariables struct {

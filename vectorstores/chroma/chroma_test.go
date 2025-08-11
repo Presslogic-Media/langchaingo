@@ -8,20 +8,19 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/chains"
+	"github.com/Presslogic-Media/langchaingo/embeddings"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/internal/testutil/testctr"
+	"github.com/Presslogic-Media/langchaingo/llms/openai"
+	"github.com/Presslogic-Media/langchaingo/schema"
+	"github.com/Presslogic-Media/langchaingo/vectorstores"
+	"github.com/Presslogic-Media/langchaingo/vectorstores/chroma"
 	chromatypes "github.com/amikos-tech/chroma-go/types"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
-	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/log"
 	tcchroma "github.com/testcontainers/testcontainers-go/modules/chroma"
-	"github.com/tmc/langchaingo/chains"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/internal/testutil/testctr"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/chroma"
 )
 
 // TODO (noodnik2):

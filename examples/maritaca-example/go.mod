@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/maritaca-example
+module github.com/Presslogic-Media/langchaingo/examples/maritaca-example
 
 go 1.24.3
 

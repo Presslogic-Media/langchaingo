@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/sequential-chain-example
+module github.com/Presslogic-Media/langchaingo/examples/sequential-chain-example
 
 go 1.24.3
 

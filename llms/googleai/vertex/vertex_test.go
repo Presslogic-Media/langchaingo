@@ -7,12 +7,12 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/httputil"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms/googleai"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/httputil"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/googleai"
 )
 
 func newHTTPRRClient(t *testing.T, opts ...googleai.Option) *Vertex {

@@ -32,8 +32,8 @@ import (
   "fmt"
   "log"
 
-  "github.com/tmc/langchaingo/llms"
-  "github.com/tmc/langchaingo/llms/openai"
+  "github.com/Presslogic-Media/langchaingo/llms"
+  "github.com/Presslogic-Media/langchaingo/llms/openai"
 )
 
 func main() {
@@ -72,6 +72,6 @@ Here are some links to blog posts and articles on using Langchain Go:
 
 There is a momentum for moving the development of langchaingo to a more community effort, if you are interested in being a maintainer or you are a contributor please join our [Discord](https://discord.gg/8bHGKzHBkM) and let us know.
 
-<a href="https://github.com/tmc/langchaingo/graphs/contributors">
+<a href="https://github.com/Presslogic-Media/langchaingo/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tmc/langchaingo" />
 </a>

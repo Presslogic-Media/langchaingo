@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/redis-vectorstore-example
+module github.com/Presslogic-Media/langchaingo/examples/redis-vectorstore-example
 
 go 1.24.3
 

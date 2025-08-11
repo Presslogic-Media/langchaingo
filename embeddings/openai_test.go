@@ -6,10 +6,10 @@ import (
 	"os"
 	"testing"
 
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms/openai"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms/openai"
 )
 
 func newOpenAIEmbedder(t *testing.T, opts ...Option) *EmbedderImpl {

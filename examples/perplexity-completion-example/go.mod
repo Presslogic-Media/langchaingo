@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/perplexity-completion-example
+module github.com/Presslogic-Media/langchaingo/examples/perplexity-completion-example
 
 go 1.24.3
 

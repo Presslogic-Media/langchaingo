@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/anthropic-vision-example
+module github.com/Presslogic-Media/langchaingo/examples/anthropic-vision-example
 
 go 1.24.3
 

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/document-qa-example
+module github.com/Presslogic-Media/langchaingo/examples/document-qa-example
 
 go 1.24.3
 

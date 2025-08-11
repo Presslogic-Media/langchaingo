@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"strconv"
 
+	"github.com/Presslogic-Media/langchaingo/schema"
 	"github.com/google/uuid"
 	"github.com/redis/rueidis"
-	"github.com/tmc/langchaingo/schema"
 )
 
 // RedisClient interface of redis client, easy to replace third redis client package

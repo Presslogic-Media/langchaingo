@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-readme
+module github.com/Presslogic-Media/langchaingo/examples/openai-readme
 
 go 1.24.3
 

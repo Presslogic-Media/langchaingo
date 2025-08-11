@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/ollama-functions-example
+module github.com/Presslogic-Media/langchaingo/examples/ollama-functions-example
 
 go 1.24.3
 

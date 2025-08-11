@@ -125,7 +125,7 @@ Contributors are recognized in:
 
 ## Questions?
 
-- Open a [GitHub Discussion](https://github.com/tmc/langchaingo/discussions)
+- Open a [GitHub Discussion](https://github.com/Presslogic-Media/langchaingo/discussions)
 - Check existing issues and PRs
 - Review the documentation
 

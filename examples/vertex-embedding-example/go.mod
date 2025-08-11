@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/vertex-embedding-example
+module github.com/Presslogic-Media/langchaingo/examples/vertex-embedding-example
 
 go 1.24.3
 

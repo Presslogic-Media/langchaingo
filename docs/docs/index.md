@@ -57,5 +57,5 @@ Technical reference for all LangChainGo modules and their capabilities.
 ## Get Involved
 
 - **[Contributing Guide](/docs/contributing)**: Learn how to contribute code and documentation
-- **[GitHub Discussions](https://github.com/tmc/langchaingo/discussions)**: Join the conversation about LangChainGo
-- **[GitHub Issues](https://github.com/tmc/langchaingo/issues)**: Report bugs or request features
+- **[GitHub Discussions](https://github.com/Presslogic-Media/langchaingo/discussions)**: Join the conversation about LangChainGo
+- **[GitHub Issues](https://github.com/Presslogic-Media/langchaingo/issues)**: Report bugs or request features

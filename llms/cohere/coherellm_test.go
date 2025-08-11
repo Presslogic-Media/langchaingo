@@ -6,10 +6,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/cohere/internal/cohereclient"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms/cohere/internal/cohereclient"
+	"github.com/Presslogic-Media/langchaingo/schema"
 )
 
 // newClientWithHTTPClient creates a cohere client with a custom HTTP client for testing

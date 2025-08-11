@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/caching-llm-example
+module github.com/Presslogic-Media/langchaingo/examples/caching-llm-example
 
 go 1.24.3
 

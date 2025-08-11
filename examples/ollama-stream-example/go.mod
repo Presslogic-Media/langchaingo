@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/ollama-stream-example
+module github.com/Presslogic-Media/langchaingo/examples/ollama-stream-example
 
 go 1.24.3
 

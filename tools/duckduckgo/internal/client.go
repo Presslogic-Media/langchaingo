@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strings"
 
+	"github.com/Presslogic-Media/langchaingo/httputil"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/tmc/langchaingo/httputil"
 )
 
 var ErrNoGoodResult = errors.New("no good search results found")

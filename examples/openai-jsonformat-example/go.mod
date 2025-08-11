@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-jsonformat-example
+module github.com/Presslogic-Media/langchaingo/examples/openai-jsonformat-example
 
 go 1.24.3
 

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/mongovector-vectorstore-example
+module github.com/Presslogic-Media/langchaingo/examples/mongovector-vectorstore-example
 
 go 1.23.8
 

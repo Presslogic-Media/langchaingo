@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/bedrock-claude3-vision-example
+module github.com/Presslogic-Media/langchaingo/examples/bedrock-claude3-vision-example
 
 go 1.24.3
 

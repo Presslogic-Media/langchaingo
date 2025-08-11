@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-gpt4o-mutil-content
+module github.com/Presslogic-Media/langchaingo/examples/openai-gpt4o-mutil-content
 
 go 1.24.3
 

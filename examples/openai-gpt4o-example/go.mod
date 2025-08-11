@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-gpt4o-example
+module github.com/Presslogic-Media/langchaingo/examples/openai-gpt4o-example
 
 go 1.24.3
 

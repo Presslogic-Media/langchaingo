@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/googleai-streaming-example
+module github.com/Presslogic-Media/langchaingo/examples/googleai-streaming-example
 
 go 1.24.3
 

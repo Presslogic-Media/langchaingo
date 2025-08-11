@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/nvidia-chat-completion
+module github.com/Presslogic-Media/langchaingo/examples/nvidia-chat-completion
 
 go 1.24.3
 

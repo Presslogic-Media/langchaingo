@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/tmc/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/llms"
 )
 
 const (

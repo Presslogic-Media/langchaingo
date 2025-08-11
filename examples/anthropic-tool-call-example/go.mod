@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/anthropic-tool-call-example
+module github.com/Presslogic-Media/langchaingo/examples/anthropic-tool-call-example
 
 go 1.24.3
 

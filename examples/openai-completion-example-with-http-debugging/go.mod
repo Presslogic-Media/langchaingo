@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-completion-example-with-http-debugging
+module github.com/Presslogic-Media/langchaingo/examples/openai-completion-example-with-http-debugging
 
 go 1.24.3
 

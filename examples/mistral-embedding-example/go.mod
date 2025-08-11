@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/mistral-embedding-example
+module github.com/Presslogic-Media/langchaingo/examples/mistral-embedding-example
 
 go 1.23.8
 

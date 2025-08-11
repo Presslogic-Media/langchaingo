@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-embeddings-example
+module github.com/Presslogic-Media/langchaingo/examples/openai-embeddings-example
 
 go 1.24.3
 

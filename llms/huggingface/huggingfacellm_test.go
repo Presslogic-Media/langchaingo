@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tmc/langchaingo/internal/httprr"
-	"github.com/tmc/langchaingo/llms"
+	"github.com/Presslogic-Media/langchaingo/internal/httprr"
+	"github.com/Presslogic-Media/langchaingo/llms"
 )
 
 func TestHuggingFaceLLMWithProvider(t *testing.T) {
