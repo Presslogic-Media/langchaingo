@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo
+module github.com/Presslogic-Media/langchaingo
 
 go 1.23.8
 
